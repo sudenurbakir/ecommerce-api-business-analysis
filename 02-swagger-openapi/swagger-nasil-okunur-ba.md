@@ -58,6 +58,12 @@ Endpoint’e gönderilmesi gereken bilgiler.
 ### 4. Request Body
 POST / PUT / PATCH endpoint’lerinde gönderilecek JSON yapısı burada gösterilir.
 
+Aşağıdaki örnekte dikkat etmemiz gerekenler:
+
+Hangi alanlar zorunlu? (required)
+Alanların tipi nedir? (string, number, boolean, object, array)
+Varsayılan değer var mı?
+
 Örnek:
 ```json
 {
@@ -67,8 +73,4 @@ POST / PUT / PATCH endpoint’lerinde gönderilecek JSON yapısı burada göster
   "categoryId": 0
 }
 
-Burada dikkat etmemiz gerekenler:
 
-Hangi alanlar zorunlu? (required)
-Alanların tipi nedir? (string, number, boolean, object, array)
-Varsayılan değer var mı?
