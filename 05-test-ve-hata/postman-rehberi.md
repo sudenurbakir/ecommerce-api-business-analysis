@@ -1,4 +1,4 @@
-# Postman ile API Test Rehberi (İş Analisti İçin)
+# Postman ile API Test 
 
 ## 1. Postman Nedir?
 
